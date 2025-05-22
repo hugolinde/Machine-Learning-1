@@ -17,10 +17,10 @@ dependencies:
   - brotli-bin=1.1.0=hcfcfb64_1
   - brotli-python=1.1.0=py310h00ffb61_1
   - bzip2=1.0.8=hcfcfb64_5
-  - ca-certificates=2024.2.2=h56e8100_0
+  - ca-certificates=2025.2.25=haa95532_0
   - cached-property=1.5.2=hd8ed1ab_1
   - cached_property=1.5.2=pyha770c72_1
-  - certifi=2024.2.2=pyhd8ed1ab_0
+  - certifi=2025.4.26=py310haa95532_0
   - cffi=1.16.0=py310h8d17308_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - click=8.1.7=win_pyh7428d3b_0
@@ -182,7 +182,7 @@ dependencies:
   - rpds-py=0.18.1=py310hc226416_0
   - scikit-learn=1.4.2=py310hf2a6c47_1
   - scipy=1.13.0=py310h46043a1_1
-  - seaborn=0.13.2=hd8ed1ab_2
+  - seaborn=0.13.2=py310haa95532_2
   - seaborn-base=0.13.2=pyhd8ed1ab_2
   - send2trash=1.8.3=pyh5737063_0
   - setuptools=69.5.1=pyhd8ed1ab_0
