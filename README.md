@@ -1,4 +1,4 @@
-# Machine Learning 2 assignments
+# Machine Learning: two assignments
 
 Here are two assignments which I did as part of the minor course Machine Learning 1, lectured by teachers of the University of Amsterdam.
 The two assignments are:
