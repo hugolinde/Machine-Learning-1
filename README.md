@@ -4,11 +4,11 @@ Here are two assignments which I did as part of the minor course Machine Learnin
 The two assignments are:
 
 **Vectorized Multiple Linear & Polynomial Regression**
-Vectorized Multiple Linear & Polynomial Regression models the relationship between multiple input variables and an output, using efficient matrix operations (vectorization).Linear regression fits straight-line relationships, while polynomial regression includes powers of the inputs.
+models the relationship between multiple input variables and an output, using efficient matrix operations (vectorization).Linear regression fits straight-line relationships, while polynomial regression includes powers of the inputs.
 Vectorization speeds up training, especially on large datasets.
 
 **K-means clustering**
-K-means is an unsupervised learning algorithm that groups data into k clusters based on similarity.
+is an unsupervised learning algorithm that groups data into k clusters based on similarity.
 It assigns each data point to the nearest cluster center (centroid) and updates centroids iteratively.
 The goal is to minimize the distance between points and their cluster centers for clear group separation.
 
